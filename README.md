@@ -14,3 +14,17 @@ I built this project to deepen my understanding of PCB design, keyboard matrix l
 <img width="1202" height="513" alt="602219280-15e8cf9d-5e58-42b5-828d-d92529df9ab9" src="https://github.com/user-attachments/assets/c959a575-26e2-48e8-b830-2115606ce6f3" />
 <img width="1091" height="414" alt="602219214-5e932b3e-5503-4928-bb83-d3fdaf1ea26e" src="https://github.com/user-attachments/assets/4c483a52-5ad7-437f-aa6a-bdbeac1b983e" />
 <img width="1088" height="467" alt="602218932-bbe01e49-c888-48cc-bc79-f7ac42afa11e" src="https://github.com/user-attachments/assets/84a81663-ab38-4e02-b035-ab60e32a5eeb" />
+
+
+| Name | Description | Quantity | Price (USD) | Link | Vendor |
+|------|------------|----------|-------------|------|--------|
+| Gateron Mechanical Switches (G Pro 3.0 Yellow Pre-lubed) | Linear pre-lubed keyboard switches (~50g actuation, smooth) | 90 | 17.06 | https://www.thecosmicbyte.com/product/gateron-mechanical-switches-compatible-with-cosmic-byte-hot-swappable-keyboards-qty-1pc/?attribute_pa_switch-type=g-pro-3-0-yellow-pre-lubed | Cosmic Byte |
+| Keycaps | Mechanical keyboard keycap set (standard layout) | 90 | 16.19 | https://amzn.in/d/05XbxYkm | Amazon |
+| Diodes | General purpose diodes for keyboard matrix | 100 | 2.65 | https://amzn.in/d/0eVDrr6B | Amazon |
+| PCB | Custom keyboard printed circuit board | 1 | 42.97 | N/A | JLCPCB |
+| RP2040 | Microcontroller board (dual-core ARM Cortex-M0+) | 1 | 8.09 | https://amzn.in/d/00qoAonb | Amazon |
+| Screws | Small M2/M2.5 screws for keyboard assembly | 1 pack | 1.53 | https://amzn.in/d/04wa89yN | Amazon |
+| Stabilizers | PCB/plate mount stabilizers for larger keys | 1 set | 2.56 | https://www.aliexpress.us/item/3256806342416791.html | AliExpress |
+| Soldering Iron | Basic soldering iron for assembling PCB components | 1 | 5.96 | https://amzn.in/d/032QO002 | Amazon |
+
+**Total Cost: 99.01 USD**
